@@ -5,7 +5,7 @@ A newsletter is a tool used to communicate regularly with your subscribers, deli
 
 All the details of the user will stored in a Mailchimp API.
 
-My website link : https://salman-newsletter-app.herokuapp.com
+My website link : https://newsletter-app-216.herokuapp.com/
 
 In order to use this project on your local machine use the following steps :=
 
